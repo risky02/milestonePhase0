@@ -1,0 +1,87 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  text-decoration: none;
+}
+
+.nav-menu ul {
+  text-decoration: none;
+}
+.navbar-nav {
+  display: inline;
+}
+.navbar-nav a {
+  color: white;
+  display: block;
+}
+
+.jumbotron {
+  padding: 190px 0px;
+  background-image: url(https://www.whats-on-netflix.com/wp-content/uploads/2020/03/netflix-a-z-guide-2020-1280x720.jpg);
+  background-size: cover;
+}
+
+.container h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.top-wrapper h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  font-size: 20px;
+  margin-bottom: 3px;
+  letter-spacing: 2px;
+}
+
+.btn-wrapper a {
+  letter-spacing: 2px;
+}
+
+.images-home img {
+  width: 60%;
+  height: 350px;
+}
+
+.container-1 {
+  margin-top: 15%;
+  padding: 20px;
+}
+
+.btn-quest {
+  width: 100%;
+}
+
+/* ---------- Login ------------------*/
+.loginHeader h1 {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.loginHeader p {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.btnLogin {
+  width: 40%;
+}
+
+.loginForm p {
+  color: black;
+}
+
+/* ---------- Register ------------------*/
+
+/* ---------- Products ------------------*/
